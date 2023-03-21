@@ -1,0 +1,2 @@
+name,ring,quadrant,isNew,description
+Low-code solutions,Assess,languages-and-frameworks,TRUE,Allowing non-technical users to slice data could allow for quick and custom ways for our internal users to query large data sets, however we need to assess the data, the access privileges, and training requirements to consider this

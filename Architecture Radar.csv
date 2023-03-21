@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Low-code solutions,Assess,languages-and-frameworks,TRUE,Allowing non-technical users to slice data could allow for quick and custom ways for our internal users to query large data sets, however we need to assess the data, the access privileges, and training requirements to consider this
-NCrunch,Trial,Tools,TRUE,A powerful Visual Studio extension that runs tests in real time as the code changes, and provides in-line code coverage as well as highlighting areas of inefficiency
-Three Amigos,Trial,Techniques,TRUE,A quick discussion between a developer, a tester, and a product owner or business analyst can help get everybody on the same page when starting a new piece of work, as well as highlighting any expected issues and edge cases early
-Native Azure Apps,Adopt,Platforms,TRUE,Moving our APIs and Web Apps from cloud VMs into native apps on Azure could help us build and monitor them in a consistent way
+Low-code solutions,Assess,languages-and-frameworks,TRUE,"Allowing non-technical users to slice data could allow for quick and custom ways for our internal users to query large data sets, however we need to assess the data, the access privileges, and training requirements to consider this"
+NCrunch,Trial,Tools,TRUE,"A powerful Visual Studio extension that runs tests in real time as the code changes, and provides in-line code coverage as well as highlighting areas of inefficiency"
+Three Amigos,Trial,Techniques,TRUE,"A quick discussion between a developer, a tester, and a product owner or business analyst can help get everybody on the same page when starting a new piece of work, as well as highlighting any expected issues and edge cases early"
+Native Azure Apps,Adopt,Platforms,"TRUE,Moving our APIs and Web Apps from cloud VMs into native apps on Azure could help us build and monitor them in a consistent way"
